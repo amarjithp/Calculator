@@ -6,5 +6,5 @@ This is just a simple python calculator.
 apt install python3 && pip3 install pyfiglet && git clone https://github.com/vu1n3rab1e/Calculator.git && cd Calculator && python3 calculatorV1.py
 
 # Termux
-pkg install python3 && pip3 install pyfiglet && git clone https://github.com/vu1n3rab1e/Calculator.git && cd Calculator && python3 calculatorV1.py
+pip3 install pyfiglet && git clone https://github.com/vu1n3rab1e/Calculator.git && cd Calculator && python3 calculatorV1.py
 
